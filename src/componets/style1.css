@@ -1,0 +1,456 @@
+.container1{
+    margin-left: 190px;
+    margin-top: 50px;
+}
+
+
+
+
+.images{
+    width: 1100px;
+    height: 600px;
+}
+
+
+h4{
+    margin-top: -190px;
+    width: 300px;
+    font-size: 17px;
+    color: white;
+    line-height: 25px;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+.btn{
+    margin-left: 30px;
+    padding-top: 5px;
+    font-size: 14px;
+}
+
+h3{
+    margin-left:-140px;
+    font-size: 19px;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    column-gap: 20px;
+    margin-top: 70px;
+    margin-left: -140px;
+}
+
+.card-img-top{
+    height: 250px;
+}
+
+.card-body{
+    height: 150px;
+}
+
+.card-text{
+    margin-top: -20px;
+}
+
+.card-text,.card-title{
+    margin-left: -10px;
+}
+
+#btnn{
+margin-left: -10px;
+}
+
+span{
+    margin-left: 20px;
+}
+
+.imgg{
+    width: 300px;
+    height: 250px;
+}
+
+.spann{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+
+.container3{
+    width: 1100px;
+    margin-top: 60px;
+    
+}
+
+.content2,.h21{
+    background-color: gray;
+    
+}
+
+.subcontent{
+    display: flex;
+    background-color: gray;  
+    margin-top: 40px;
+    height: 300px;
+    
+  
+}
+
+#card{
+    height: 280px;
+    width: 540px;
+    margin-left: 40px;
+}
+
+
+
+#cardbody{
+    background-color: gray;  
+}
+
+.p1{
+    color: white;
+    background-color: gray;
+}
+
+.container4{
+    margin-top: 40px;
+    width: 1200px;
+}
+
+
+h5{
+    color: white;
+    font-size: 20px;
+}
+
+.subcontent1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+
+.pictures{
+    width: 70px;
+    height: 75px;
+    padding-top: 5px;
+}
+
+
+.p23{
+    color: white;
+    display:flex;
+    margin-left: 20px;
+    line-height: 10px;
+    margin-top: 20px;
+
+}
+
+.lii{
+    list-style: none;
+    margin: 0;
+    display: flex;
+    margin-left:-20px;
+    
+}
+
+.padd{
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+
+.container5{
+    margin-top: 80px;
+    width: 1100px;
+    margin-left: 20px;
+    color: white;
+}
+
+.card-footer,.text-muted,small{
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
+#cardd{
+    padding-top: 45px;
+    background-color: rgb(39, 39, 39);
+}
+
+#cardd1{
+    background-color: rgb(39, 39, 39);
+}
+
+.col{
+    height: 460px;
+   }
+
+   .container6{
+       width: 1000px;
+       margin-left: 150px;
+       margin-top: 50px;
+       color: white;
+   }
+
+
+   .container7{
+       width: 1100px;
+       padding-top: 90px;
+       margin-left: 30px;
+       color: white;
+    
+   }
+
+
+.content5{
+    display: flex;
+    column-gap:40px;
+}
+
+#p24{
+    color: white;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+
+.container8{
+width: 1000px;
+margin-left: 160px;
+margin-top: 50px;
+color: white;
+}
+
+
+.container9{
+    width: 1100px;
+    margin-left: 160px;
+    margin-top: 50px;
+    color: white;
+    
+}
+
+
+
+.content6{
+   
+width: 1150px;
+height: 440px;
+margin-left: -140px;
+background: #0575E6; 
+background: -webkit-linear-gradient(to left, #021B79, #0575E6);  
+background: linear-gradient(to left, #021B79, #0575E6);
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 50px;
+}
+
+
+#ull,#bg{
+    color:white;
+    background: #0575E6; 
+background: -webkit-linear-gradient(to left, #021B79, #0575E6);  
+background: linear-gradient(to left, #021B79, #0575E6); 
+padding: 30px;
+
+}
+
+#ptcr{
+width: 450px;
+height: 300px;
+
+}
+
+#bg{
+    font-size:27px;
+    margin-top: -25px;
+    
+}
+
+.bgg{
+    font-size: 40px;
+    background: #0575E6; 
+    background: -webkit-linear-gradient(to left, #021B79, #0575E6);  
+    background: linear-gradient(to left, #021B79, #0575E6); 
+    padding: 30px;
+    
+    
+}
+
+#bt23{
+    margin-left: -10px;
+    width: 200px;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+
+
+
+@media screen and (max-width:500px){
+
+
+
+
+   
+
+    #carouselExampleSlidesOnly{
+        margin-left: -190px;
+    }
+
+   
+
+    .images{
+        width: 380px;
+        height: 450px;
+    }
+
+
+    .container2{
+        width: 400px;
+        margin-left: -40px;
+    }
+
+    .content{
+        overflow-x:scroll;
+        width: 400px;
+       
+    }
+
+    .content::-webkit-scrollbar{
+        width: 0;
+    }
+
+    .container3{
+        display: none;
+    }
+
+   
+    .content3{
+        overflow-x: scroll;
+        width: 400px;
+        margin-left:-200px;
+    }
+
+    .content3::-webkit-scrollbar{
+        width: 0;
+    }
+
+
+    .card{
+        margin-left: 10px;
+    }
+
+    .content4{
+        margin-left:-217px;
+       width: 400px;
+       height: 1300px;
+    }
+
+    .col{
+        width: 380px;
+        height: 400px;
+        margin-top: 20px;
+       
+    }
+
+   
+
+    .subcontentt6,.subcontentt8{
+        width: 400px;
+        margin-left: -190px;
+    }
+
+    .content5{
+        display:flex;
+        flex-direction: column;
+        margin-left: -220px;
+       
+    }
+
+   #carddd{
+     width: 330px;
+     height: 250px;
+     margin-top: 20px;
+   }
+
+
+   
+   .content6{
+   
+    width:500px;
+    height: 440px;
+    margin-left: -420px;
+    background: #0575E6; 
+    background: none;
+    background: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    
+    }
+    
+    
+    #ull,#bg{
+        color:white;
+        background: #0575E6; 
+    background: -webkit-linear-gradient(to left, #021B79, #0575E6);  
+    background: linear-gradient(to left, #021B79, #0575E6); 
+    padding: 40px;
+   
+    
+    }
+    
+    #ptcr{
+    display: none;
+    
+    }
+    
+    #bg{
+        font-size:10px;
+        margin-top: -25px;
+        
+    }
+    
+    .bgg{
+        font-size: 20px;
+        background: #0575E6; 
+        background: -webkit-linear-gradient(to left, #021B79, #0575E6);  
+        background: linear-gradient(to left, #021B79, #0575E6); 
+        padding: 20px;
+    }
+
+    #h33{
+    margin-left: -300px;
+    }
+
+    .container1{
+        width: 400px;
+    }
+
+
+
+  
+
+
+
+    
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
