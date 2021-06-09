@@ -75,7 +75,7 @@ i{
     @media screen and (max-width:500px){
         
         .container11{
-           width: 500px;
+           width: 420px;
             height: 700px;
             margin-left:-63px;
             margin-top: 130px;
@@ -89,7 +89,7 @@ i{
         .grid{
             display: grid;
             grid-template-columns: repeat(2,1fr);
-            width: 400px;
+            width:350px;
             padding-top: 7px;
          
             }

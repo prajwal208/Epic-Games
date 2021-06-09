@@ -28,7 +28,7 @@ function App() {
    <Switch>
 
   
-   <Route exact path="/">
+   <Route exact path="/Epic-Games">
    <Contents/></Route>
    
    <Route exact path="/Contents1">

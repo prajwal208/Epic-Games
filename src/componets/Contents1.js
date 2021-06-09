@@ -22,11 +22,11 @@ export default function Contents1() {
 
                     <div className="content32">
 
-                        <div class="card" style={{ width: "500px;", height: "480px" }} id="cardee">
+                        <div class="card" style={{ width: "400px;", height: "480px" }} id="cardee">
                             <img src={image43} />
                             <div class="card-body">
                                 <h5 class="card-title">ODYSSEY ELITE DANGEROUS</h5>
-                                <p class="card-text" id="p24" style={{ width: "500px", fontSize: "12px", marginLeft: "0px" }}>Explore the galaxy like never before with the release of Elite Dangerous:
+                                <p class="card-text" id="p24" style={{ width: "400px", fontSize: "12px", marginLeft: "0px" }}>Explore the galaxy like never before with the release of Elite Dangerous:
                                 Odyssey. Join thousands of your fellow Commanders as you take your first bold steps into a mysterious galaxy
                                 and touchdown upon the surface of countless unique worlds. Out now.</p>
                                 <p style={{ cursor: "pointer", borderBottom: "1px solid white", width: "80px" }}>Read more</p>
@@ -36,7 +36,7 @@ export default function Contents1() {
 
 
 
-                        <div class="card" style={{ width: "500px;",height:"480px" }}   id="cardeee" >
+                        <div class="card" style={{ width: "400px;",height:"480px" }}   id="cardeee" >
                             <img src={image44} />
                             <div class="card-body">
                                 <h5 class="card-title">CHIVALRY</h5>

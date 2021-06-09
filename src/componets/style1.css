@@ -302,7 +302,7 @@ height: 300px;
    
 
     .images{
-        width: 380px;
+        width: 360px;
         height: 450px;
     }
 
@@ -314,7 +314,7 @@ height: 300px;
 
     .content{
         overflow-x:scroll;
-        width: 400px;
+        width: 350px;
        
     }
 
@@ -429,6 +429,24 @@ height: 300px;
     .container1{
         width: 400px;
     }
+
+    .container1{
+        width: 200px;
+    }
+
+    .subcontentt9{
+        width:0px;
+    }
+
+    .container4,.container5,.container6,.container7,.container8,.container9{
+        width: 0;
+    }
+
+    .subcontentt6,.subcontentt8{
+        width: 0;
+    }
+
+    
 
 
 

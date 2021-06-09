@@ -261,6 +261,7 @@ video,.vdd{
 
   .content43{
     margin-left: -25px;
+    width: 0;
   }
 
   #p43{
@@ -341,7 +342,7 @@ font-size: 15px;
     margin-left: -100px;
   }
 
-  .image45{
+  .image45,.image46{
     width: 340px;
   }
 
@@ -354,6 +355,7 @@ font-size: 15px;
   #img456{
     margin-left:380px;
     margin-top:-120px;
+    
 }
  
 
