@@ -1,17 +1,6 @@
 import React from 'react'
 import "./style3.css";
-import image43 from "./images/43.png";
-import image44 from "./images/44.jpg";
-import image45 from "./images/45.png";
-import image46 from "./images/46.jpg";
-import image47 from "./images/47.jpg";
-import image48 from "./images/48.png";
-import image49 from "./images/49.png";
-import image50 from "./images/50.jpg";
-import image51 from "./images/51.png";
-import image52 from "./images/52.png";
-import image53 from "./images/53.jpg";
-import image54 from "./images/54.png";
+
 
 export default function Contents1() {
     return (
